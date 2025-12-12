@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(244, 194, 194);
+}
+div{
+    width: 80vw;
+    background-image: url("Gemini_Generated_Image_1xhvlc1xhvlc1xhv.png");
+    background-size: cover;       /* image fills the screen */
+    background-repeat: no-repeat; /* no repeating tiles */
+    background-position: center;  /* centered image */
+    padding: 50px;
+    border-radius: 5vw;
+    transform: translateX(2vw) translateY(10vw);
+   
+}
+
+#who{
+    border-radius: 2vw;
+    background-image: none;
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+    color: rgb(229, 75, 75);
+    background-color: ;
+    width: 30vw;
+    transform: translateX(-1vw) translateX(4dvw);
+}
+p{
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+    transform: translateX(13vw);
+    
+}
+a:hover{
+    text-decoration: none;
+    color: gray;
+    background-color: black;
+}
+a:active{
+    text-decoration: none;
+    color: grey;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(229, 75, 75);
+}
+a:visited{
+    text-decoration: none;
+    color: rgb(229, 75, 75);
+}
+#wish{
+    width: 80vw;
+    background-image: url("Gemini_Generated_Image_svbpfxsvbpfxsvbp.png");
+    background-size: cover;       /* image fills the screen */
+    background-repeat: no-repeat; /* no repeating tiles */
+    background-position: center;  /* centered image */
+    padding: 50px;
+    border-radius: 5vw;
+    transform: translateX(2vw) translateY(10vw);
+}
+#wish h1{
+    color: brown;
+    
+}
